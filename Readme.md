@@ -20,6 +20,11 @@
 - [Pooling connections](#pooling-connections)
 - [Pool options](#pool-options)
 - [Pool events](#pool-events)
+<<<<<<< HEAD
+=======
+- [connection](#connection)
+- [enqueue](#enqueue)
+>>>>>>> FETCH_HEAD
 - [Closing all the connections in a pool](#closing-all-the-connections-in-a-pool)
 - [PoolCluster](#poolcluster)
 - [PoolCluster Option](#poolcluster-option)
@@ -44,9 +49,24 @@
 - [Error handling](#error-handling)
 - [Exception Safety](#exception-safety)
 - [Type casting](#type-casting)
+<<<<<<< HEAD
 - [Connection Flags](#connection-flags)
 - [Debugging and reporting problems](#debugging-and-reporting-problems)
 - [Running tests](#running-tests)
+=======
+- [Number](#number)
+- [Date](#date)
+- [Buffer](#buffer)
+- [String](#string)
+- [Connection Flags](#connection-flags)
+- [Example](#example)
+- [Default Flags](#default-flags)
+- [Other Available Flags](#other-available-flags)
+- [Debugging and reporting problems](#debugging-and-reporting-problems)
+- [Running tests](#running-tests)
+- [Running unit tests](#running-unit-tests)
+- [Running integration tests](#running-integration-tests)
+>>>>>>> FETCH_HEAD
 - [Todo](#todo)
 
 ## Install
